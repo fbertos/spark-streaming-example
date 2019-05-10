@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>spark-streaming-example</name>
+	<name>spark-kafka-example</name>
 	<comment></comment>
 	<projects>
 	</projects>
