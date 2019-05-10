@@ -1,1 +1,3 @@
-/home/fbertos/workspace/spark-streaming-example/src/main/java/org/fbertos/spark/SparkStreamingProgram.java
+/home/fbertos/workspace/spark-kafka-example/src/main/java/org/fbertos/spark/SparkKafkaStreamingProgram.java
+/home/fbertos/workspace/spark-kafka-example/src/main/java/org/fbertos/spark/Schema.java
+/home/fbertos/workspace/spark-kafka-example/src/main/java/org/fbertos/spark/Message.java
