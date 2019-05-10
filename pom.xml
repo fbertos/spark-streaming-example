@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.fbertos</groupId>
-  <artifactId>spark-kafka-example</artifactId>
+  <artifactId>spark-streaming-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>spark-kafka-example</name>
+  <name>spark-streaming-example</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -54,7 +54,7 @@
 	      <configuration>
 	        <archive>
 	          <manifest>
-	            <mainClass>org.fbertos.spark.SparkKafkaStreamingProgram</mainClass>
+	            <mainClass>org.fbertos.spark.SparkStreamingProgram</mainClass>
 	          </manifest>
 	        </archive>
 	        <descriptorRefs>
